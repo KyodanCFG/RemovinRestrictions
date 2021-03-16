@@ -1,4 +1,4 @@
-Removin' Restrictions (for JET v1.1.0)
+Removin' Restrictions (for JET v1.1.0) 
 ----------------
 Version `1.1.0` (`03.15.2021`)
 By Kyodan
