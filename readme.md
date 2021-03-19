@@ -3,7 +3,7 @@ Removin' Restrictions (for JET Server v1.1.0) ![GitHub all releases](https://img
 Version `1.1.0` (`03.15.2021`)
 By Kyodan
 
-This mod removes all in-raid item restrictions!
+This mod removes all in-raid item restrictions! Carry all the LEDXs you want!
 
 **Download the latest release (in ZIP format) here: https://github.com/KyodanCFG/RemovinRestrictions/releases**
                                                                                    
